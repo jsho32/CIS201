@@ -1,0 +1,53 @@
+Average monthly rainfall: 1.25
+Rainfall in JAN: 3.12 -- differs from the Avg. by: +1.87
+Rainfall in FEB: 3.30 -- differs from the Avg. by: +2.05
+Rainfall in MAR: 2.58 -- differs from the Avg. by: +1.33
+Rainfall in APR: 1.02 -- differs from the Avg. by: -0.23
+Rainfall in MAY: 0.31 -- differs from the Avg. by: -0.94
+Rainfall in JUN: 0.07 -- differs from the Avg. by: -1.18
+Rainfall in JUL: 0.01 -- differs from the Avg. by: -1.24
+Rainfall in AUG: 0.05 -- differs from the Avg. by: -1.20
+Rainfall in SEP: 0.23 -- differs from the Avg. by: -1.02
+Rainfall in OCT: 0.52 -- differs from the Avg. by: -0.73
+Rainfall in NOV: 1.29 -- differs from the Avg. by: +0.04
+Rainfall in DEC: 2.46 -- differs from the Avg. by: +1.21
+
+BAR GRAPH:
+Stars rep. '0.1' each
+
+JAN: *******************************
+Avg: ************
+
+FEB: *********************************
+Avg: ************
+
+MAR: **************************
+Avg: ************
+
+APR: **********
+Avg: ************
+
+MAY: ***
+Avg: ************
+
+JUN: *
+Avg: ************
+
+JUL: 
+Avg: ************
+
+AUG: *
+Avg: ************
+
+SEP: **
+Avg: ************
+
+OCT: *****
+Avg: ************
+
+NOV: *************
+Avg: ************
+
+DEC: *************************
+Avg: ************
+
